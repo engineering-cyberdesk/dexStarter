@@ -1,1 +1,1 @@
-# Dex Starter Repo (Moralis Blueprint)
+# Please delete this repo
